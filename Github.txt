@@ -1,10 +1,10 @@
 ・Organization メンバー
 大岡：ookanobu
-
+テスト：test
 
 ・チーム
 CIM_Full
-	ookanobu,
+	ookanobu,test
 
 ・リポジトリ
 CIM_Test
