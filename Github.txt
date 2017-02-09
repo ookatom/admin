@@ -1,11 +1,11 @@
 ・Organization メンバー
 大岡：ookanobu
 テスト：test3
-BP：BP
+BP：BP2
 
 ・チーム
 CIM_Full
-	ookanobu,test3,BP
+	ookanobu,test3,BP2
 
 ・リポジトリ
 CIM_Test
