@@ -1,0 +1,13 @@
+・Organization メンバー
+大岡：ookanobu
+
+
+・チーム
+CIM_Full
+	ookanobu,
+
+・リポジトリ
+CIM_Test
+	CIM_Full：Write
+
+
